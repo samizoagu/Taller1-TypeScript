@@ -1,0 +1,14 @@
+{
+  "name": "taller-typescript-1",
+  "version": "1.0.0",
+  "description": "Taller TypeScript 1 - Gestión de Series",
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^5.9.3"
+  },
+
+"scripts": {
+  "build": "npx tsc",
+  "start": "lite-server"
+}
+}
